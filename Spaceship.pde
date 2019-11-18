@@ -1,4 +1,10 @@
-class Spaceship //extends Floater  
+class Spaceship extends Floater  
 {   
-    //your code here
+    Spaceship(){
+    	corners = 4;
+    	xCorners[] = 
+    	yCorners[] = 
+    	myColor = 
+    	
+    }
 }
